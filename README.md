@@ -4,3 +4,6 @@
 
 
 - githubはbranchをpushしても草が生えないのか？
+
+gitbranch切り替え
+git checkout branch名
