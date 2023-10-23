@@ -5,5 +5,8 @@
 
 - githubはbranchをpushしても草が生えないのか？
 
-gitbranch切り替え
+- gitbranch切り替え
 git checkout branch名
+
+- 
+git add ファイル名
