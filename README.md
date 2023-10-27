@@ -29,3 +29,9 @@ git init
 git branch
 github含めた全ての一覧
 git branch -a
+
+- デプロイ時ここで下記のエラーとなる。
+comand
+bundle exec rails assets:precompile RAILS_ENV=production
+err
+ActiveSupport::MessageEncryptor::InvalidMessage: ActiveSupport::MessageEncryptor::InvalidMessage
