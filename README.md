@@ -30,8 +30,6 @@ git branch
 github含めた全ての一覧
 git branch -a
 
-- デプロイ時ここで下記のエラーとなる。
-comand
-bundle exec rails assets:precompile RAILS_ENV=production
-err
-ActiveSupport::MessageEncryptor::InvalidMessage: ActiveSupport::MessageEncryptor::InvalidMessage
+- pumeの停止
+[ec2-user@ip-xx-xx-xx-xx アプリケーション名]$ sudo kill $(cat tmp/pids/puma.pid)
+
