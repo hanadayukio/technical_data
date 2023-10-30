@@ -12,7 +12,7 @@ GitHub Pagesを設定すればできそう
 
 
 - gitbranch切り替え
-git swich branch名
+git switch branch名
 
 - ワークツリーからステージへ記録
 git add ファイル名
