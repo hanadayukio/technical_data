@@ -35,3 +35,5 @@ git branch -a
 
 - slick 画像スライドショー
 https://qiita.com/Yusuke_Hoirta/items/309bac88a4f75b58128b
+
+- slick 読み込み後画像が縦並びとなってしまう
