@@ -33,3 +33,5 @@ git branch -a
 - pumeの停止
 [ec2-user@ip-xx-xx-xx-xx アプリケーション名]$ sudo kill $(cat tmp/pids/puma.pid)
 
+- slick 画像スライドショー
+https://qiita.com/Yusuke_Hoirta/items/309bac88a4f75b58128b
