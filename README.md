@@ -37,3 +37,6 @@ git branch -a
 https://qiita.com/Yusuke_Hoirta/items/309bac88a4f75b58128b
 
 - slick 読み込み後画像が縦並びとなってしまう
+https://qiita.com/Rairu_blog/items/e6382a64ba4457545069
+Jsファイルに「turbolinks:load」を追加した
+turbolinks:load イベントは、新しいページが表示された後に再実行されるJavaScriptコードを提供します。
