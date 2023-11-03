@@ -40,3 +40,11 @@ https://qiita.com/Yusuke_Hoirta/items/309bac88a4f75b58128b
 https://qiita.com/Rairu_blog/items/e6382a64ba4457545069
 Jsファイルに「turbolinks:load」を追加した
 turbolinks:load イベントは、新しいページが表示された後に再実行されるJavaScriptコードを提供します。
+
+- slick画面サイズによる調節がうまくいかない
+画面サイズが大きくなると次のスライドが映り込んでいる
+variableWidth: true,のコメントアウト
+画像それぞれにサイズを持たせる時使用
+
+- git commitメッセージ修正
+git commit --amend -m ""
