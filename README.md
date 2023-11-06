@@ -49,3 +49,6 @@ variableWidth: true,のコメントアウト
 - git commitメッセージ修正
 git commit --amend -m ""
 
+- フィボナッチ数列について学習
+2つの変数aとbを足して数値cとして
+Bとcを足した数値dと直前の2つの数値計算繰り返していく数列
